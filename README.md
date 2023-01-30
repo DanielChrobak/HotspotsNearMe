@@ -24,5 +24,11 @@ Now once that file saves you want to move it to the same directory as the rest o
 
 ![image](https://user-images.githubusercontent.com/88957612/215394595-b2a79716-9cc4-4238-97da-d7c64ea04229.png)
 
+Option 1:
+
 Now you'll want to install these libraries: flask, folium, json, requests, and math.
 Then just run "webapp.py" and search "http://localhost:5000/" inside of your browser.
+
+Option 2:
+
+Run "webapp.exe' and search "http://localhost:5000/" inside of your browser
